@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "121261259100",
+    "firebase_url": "https://chitthi-a11d8.firebaseio.com",
+    "project_id": "chitthi-a11d8",
+    "storage_bucket": "chitthi-a11d8.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:121261259100:android:275c07eda7b0d02c",
+        "android_client_info": {
+          "package_name": "edu.kiet.manisha.chitthi"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "121261259100-5r4qrbop15arn7vg461shuhlo8s3fkja.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "edu.kiet.manisha.chitthi",
+            "certificate_hash": "e28886a4df7b2b7f0ab642473e7e2d80a185419f"
+          }
+        },
+        {
+          "client_id": "121261259100-aoet9erjdfio39pb2dq2ora0vfp8cuje.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBobPtJybbfgfddY4-9a7lEqcGP1AockM0"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "121261259100-aoet9erjdfio39pb2dq2ora0vfp8cuje.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
